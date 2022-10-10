@@ -10,7 +10,7 @@ h1, h2, h3, h4{
 main {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(17, 20, 31, 0.7),rgba(20, 23, 34, 0.7)), url(/Users/haraldhenriksson/github-classroom/FED22M/inlamninguppgift-1-barbershop-HaraldHenriksson/Bakrundsbild.webp);
+    background-image: linear-gradient(rgba(17, 20, 31, 0.7),rgba(20, 23, 34, 0.7)), url(Bakrundsbild.webp);
     background-size: cover;
     position: relative;
 }
